@@ -4,3 +4,9 @@ C:\Users\Rustem\Documents\GitHub\Amazon\AmazonTool\MarketplaceWebServiceProducts
 C:\Users\Rustem\Documents\GitHub\Amazon\AmazonTool\MarketplaceWebServiceProducts\MarketplaceWebServiceProducts\bin\Debug\MarketplaceWebServiceProducts.pdb
 C:\Users\Rustem\Documents\GitHub\Amazon\AmazonTool\MarketplaceWebServiceProducts\MarketplaceWebServiceProducts\obj\Debug\MarketplaceWebServiceProducts.exe
 C:\Users\Rustem\Documents\GitHub\Amazon\AmazonTool\MarketplaceWebServiceProducts\MarketplaceWebServiceProducts\obj\Debug\MarketplaceWebServiceProducts.pdb
+C:\Users\rsharipov\Documents\GitHub\Amazon\AmazonTool\MarketplaceWebServiceProducts\MarketplaceWebServiceProducts\bin\Debug\MarketplaceWebServiceProducts.exe.config
+C:\Users\rsharipov\Documents\GitHub\Amazon\AmazonTool\MarketplaceWebServiceProducts\MarketplaceWebServiceProducts\obj\Debug\MarketplaceWebServiceProducts.exe
+C:\Users\rsharipov\Documents\GitHub\Amazon\AmazonTool\MarketplaceWebServiceProducts\MarketplaceWebServiceProducts\obj\Debug\MarketplaceWebServiceProducts.pdb
+C:\Users\rsharipov\Documents\GitHub\Amazon\AmazonTool\MarketplaceWebServiceProducts\MarketplaceWebServiceProducts\bin\Debug\MarketplaceWebServiceProducts.exe
+C:\Users\rsharipov\Documents\GitHub\Amazon\AmazonTool\MarketplaceWebServiceProducts\MarketplaceWebServiceProducts\bin\Debug\MarketplaceWebServiceProducts.pdb
+C:\Users\rsharipov\Documents\GitHub\Amazon\AmazonTool\MarketplaceWebServiceProducts\MarketplaceWebServiceProducts\obj\Debug\MarketplaceWebServiceProducts.csprojResolveAssemblyReference.cache

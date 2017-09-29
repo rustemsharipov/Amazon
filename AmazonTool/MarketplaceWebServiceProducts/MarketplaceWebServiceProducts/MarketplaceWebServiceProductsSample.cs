@@ -125,8 +125,9 @@ namespace MarketplaceWebServiceProducts {
 
             
             ASINListType asinList = new ASINListType();
-            asinList.ASIN = new List<string> { "B00005TQI7", "B00AVO5XRK" };
-            request.ASINList = asinList;
+            //asinList.ASIN = new List<string> { "B00005TQI7", "B00AVO5XRK" };
+			asinList.ASIN = new List<string> { "B00005TQI7"};
+			request.ASINList = asinList;
             return this.client.GetCompetitivePricingForASIN(request);
         }
 

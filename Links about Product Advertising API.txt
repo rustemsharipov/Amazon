@@ -1,0 +1,9 @@
+https://forums.aws.amazon.com/thread.jspa?threadID=171012
+
+https://stackoverflow.com/questions/19765959/amazon-product-advertising-api-c-sharp-sample
+
+https://stackoverflow.com/questions/33580526/c-sharp-library-for-amazon-product-advertising-api
+
+https://stackoverflow.com/questions/10472622/amazon-product-advertising-api-c-sharp
+
+https://github.com/tinohager/Nager.AmazonProductAdvertising
